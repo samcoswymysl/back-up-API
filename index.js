@@ -10,8 +10,8 @@ const onlyUniquePatch = [];
 
 
 
-const directoryToCopy = __dirname
-const targetPath = 'D:\\dfsaf';
+const directoryToCopy = //your patch to files to copy
+const targetPath =  //your patch to target
 
 
 let counterFile = 0;
